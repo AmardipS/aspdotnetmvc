@@ -1,0 +1,22 @@
+﻿@model ValidationAnnotation.Models.Customer
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customer Information</title>
+</head>
+<body>
+    <div> 
+        <h1>Customer Name : @Model.Name</h1>
+        ID: @Model.ID<br />
+        Name: @Model.Name<br />
+        Email: @Model.Email<br />
+
+    </div>
+</body>
+</html>
