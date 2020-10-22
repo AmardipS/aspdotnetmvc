@@ -1,0 +1,31 @@
+﻿@using HTMLHelper                   @*importing namespace to use HTMLHelper class*@
+@model HTMLHelper.Models.Car
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Car Information</h1> <br />
+        Company: @Model.company <br />
+        Model: @Model.model <br />
+        Color: @Model.color <br />
+        @Html.DisplayNameFor(car => car.company)
+        @Html.DisplayFor(car => car.company)
+
+
+        @*Using HTMLHelper class makes easy to use methods and attributes*@
+        @CarHelper.showHeading("Hello world.")
+        @CarHelper.showSubHeading("Welcome to my small world.")
+
+    </div>
+</body>
+</html>
