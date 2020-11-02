@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -63,14 +64,37 @@ namespace CRUD_Practice.Controllers
         [HttpPost]
         public ActionResult Edit(Student s)
         {
-            db.Entry(s).State = System.Data.Entity.EntityState.Modified;
+            db.Entry(s).State = EntityState.Modified;
             if (db.SaveChanges() > 0)
             {
-                ViewBag.UpdateMessage = "Data Updated!!";
-                ModelState.Clear();
+                // ViewBag.UpdateMessage = "Data Updated!!";
+                // ModelState.Clear();
+                TempData["UpdateMessage"] = "Data Updated!!";
+                return RedirectToAction("Index");
             }
             else
-                ViewBag.UpdateMessage = "Data not Updated!!!";
+                ViewBag.UpdateMessage = "Something went wrong!!!";
+
+            return View();
+        }
+
+        public ActionResult Delete(int id)
+        {
+            var StudentToDelete = db.Students.Where(model => model.Id == id).FirstOrDefault();
+            return View(StudentToDelete);
+        }
+
+        [HttpPost]
+        public ActionResult Delete(Student s)
+        {
+            db.Entry(s).State = EntityState.Deleted;
+            if (db.SaveChanges() > 0)
+            {
+                TempData["DeleteMessage"] = "Data has been Deleted Succesfully!!";
+                return RedirectToAction("Index");
+            }
+            else
+                TempData["DeleteMessage"] = "Something went wrong!!!";
 
             return View();
         }
