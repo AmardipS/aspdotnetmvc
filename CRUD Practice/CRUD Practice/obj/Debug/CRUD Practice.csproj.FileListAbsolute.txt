@@ -1,0 +1,73 @@
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\CRUD Practice.dll.config
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\CRUD Practice.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\CRUD Practice.pdb
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\csc.exe
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\csc.exe.config
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\csc.rsp
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\csi.exe
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\csi.exe.config
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\csi.rsp
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.Managed.Core.targets
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.AppContext.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Collections.Immutable.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Console.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.IO.Compression.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.IO.FileSystem.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.IO.Pipes.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Reflection.Metadata.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.AccessControl.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.Claims.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Security.Principal.Windows.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.ValueTuple.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Xml.XmlDocument.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Xml.XPath.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\vbc.exe
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\vbc.exe.config
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\vbc.rsp
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\VBCSCompiler.exe
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\roslyn\VBCSCompiler.exe.config
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\EntityFramework.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\EntityFramework.SqlServer.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\Microsoft.Web.Infrastructure.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Helpers.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Mvc.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Razor.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Webpages.Deployment.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Webpages.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Webpages.Razor.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\EntityFramework.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\EntityFramework.SqlServer.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Razor.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Webpages.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Webpages.Deployment.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Webpages.Razor.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Helpers.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\System.Web.Mvc.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\obj\Debug\CRUD Practice.csprojAssemblyReference.cache
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\obj\Debug\CRUD Practice.csproj.CoreCompileInputs.cache
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\obj\Debug\CRUD Practice.csproj.CopyComplete
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\obj\Debug\CRUD Practice.dll
+D:\aspdotnetmvc\CRUD Practice\CRUD Practice\obj\Debug\CRUD Practice.pdb
